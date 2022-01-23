@@ -1,0 +1,3 @@
+create 'webpages', 'raw', 'parsed'
+create 'duplicate_cache', 'f'
+exit
